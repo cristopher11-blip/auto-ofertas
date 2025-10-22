@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Expo cache
+.expo/
+.expo-shared/
+
+# Build
+dist/
+build/
+
+# Environment variables
+.env
